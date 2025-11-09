@@ -1,0 +1,36 @@
+[2025-11-09 08:42:24] [EXCEPTION] Demo error to show IoStreak Solutions Banner in C:\xampp\htdocs\PrachiNalis\config\config.php on line 28
+[2025-11-09 08:42:24] [ERROR] include(C:\xampp\htdocs\PrachiNalis\config/error-banner.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\PrachiNalis\config\error-handler.php on line 51
+[2025-11-09 08:42:24] [FATAL] Uncaught ErrorException: include(C:\xampp\htdocs\PrachiNalis\config/error-banner.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\PrachiNalis\config\error-handler.php:51
+Stack trace:
+#0 C:\xampp\htdocs\PrachiNalis\config\error-handler.php(51): {closure}(2, 'include(C:\\xamp...', 'C:\\xampp\\htdocs...', 51)
+#1 C:\xampp\htdocs\PrachiNalis\config\error-handler.php(51): include()
+#2 [internal function]: {closure}(Object(Exception))
+#3 {main}
+  thrown in C:\xampp\htdocs\PrachiNalis\config\error-handler.php on line 51
+[2025-11-09 08:42:24] [ERROR] include(C:\xampp\htdocs\PrachiNalis\config/error-banner.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\PrachiNalis\config\error-handler.php on line 68
+[2025-11-09 08:43:05] [EXCEPTION] Demo error to show IoStreak Solutions Banner in C:\xampp\htdocs\PrachiNalis\config\config.php on line 28
+[2025-11-09 08:43:14] [EXCEPTION] Demo error to show IoStreak Solutions Banner in C:\xampp\htdocs\PrachiNalis\config\config.php on line 28
+[2025-11-09 08:43:30] [EXCEPTION] Demo error to show IoStreak Solutions Banner in C:\xampp\htdocs\PrachiNalis\config\config.php on line 28
+[2025-11-09 08:45:39] [ERROR] Undefined variable $dbname in C:\xampp\htdocs\PrachiNalis\config\config.php on line 32
+[2025-11-09 08:45:39] [EXCEPTION] Call to undefined function showIoStreakErrorBanner() in C:\xampp\htdocs\PrachiNalis\config\config.php on line 42
+[2025-11-09 08:46:03] [ERROR] Undefined variable $dbname in C:\xampp\htdocs\PrachiNalis\config\config.php on line 33
+[2025-11-09 08:46:03] [EXCEPTION] Call to undefined function showIoStreakErrorBanner() in C:\xampp\htdocs\PrachiNalis\config\config.php on line 43
+[2025-11-09 08:46:37] [ERROR] Undefined variable $dbname in C:\xampp\htdocs\PrachiNalis\config\config.php on line 33
+[2025-11-09 08:46:37] [EXCEPTION] Call to undefined function showIoStreakErrorBanner() in C:\xampp\htdocs\PrachiNalis\config\config.php on line 43
+[2025-11-09 08:47:12] [ERROR] Undefined variable $dbname in C:\xampp\htdocs\PrachiNalis\config\config.php on line 33
+[2025-11-09 08:47:12] [EXCEPTION] Call to undefined function showIoStreakErrorBanner() in C:\xampp\htdocs\PrachiNalis\config\config.php on line 43
+[2025-11-09 08:48:12] [ERROR] Undefined variable $dbname in C:\xampp\htdocs\PrachiNalis\config\config.php on line 33
+[2025-11-09 08:48:12] [EXCEPTION] Call to undefined function showIoStreakErrorBanner() in C:\xampp\htdocs\PrachiNalis\config\config.php on line 43
+[2025-11-09 08:48:45] [ERROR] Undefined variable $dbname in C:\xampp\htdocs\PrachiNalis\config\config.php on line 33
+[2025-11-09 08:48:45] [EXCEPTION] Call to undefined function showIoStreakErrorBanner() in C:\xampp\htdocs\PrachiNalis\config\config.php on line 43
+[2025-11-09 08:48:55] [ERROR] Undefined variable $dbname in C:\xampp\htdocs\PrachiNalis\config\config.php on line 33
+[2025-11-09 08:48:55] [EXCEPTION] Call to undefined function showIoStreakErrorBanner() in C:\xampp\htdocs\PrachiNalis\config\config.php on line 43
+[2025-11-09 08:48:55] [ERROR] Undefined variable $dbname in C:\xampp\htdocs\PrachiNalis\config\config.php on line 33
+[2025-11-09 08:48:55] [EXCEPTION] Call to undefined function showIoStreakErrorBanner() in C:\xampp\htdocs\PrachiNalis\config\config.php on line 43
+[2025-11-09 08:49:02] [ERROR] Undefined variable $dbname in C:\xampp\htdocs\PrachiNalis\config\config.php on line 33
+[2025-11-09 08:49:02] [EXCEPTION] Call to undefined function showIoStreakErrorBanner() in C:\xampp\htdocs\PrachiNalis\config\config.php on line 43
+[2025-11-09 08:50:13] [EXCEPTION] Demo error to show IoStreak Solutions Banner in C:\xampp\htdocs\PrachiNalis\config\config.php on line 29
+[2025-11-09 08:54:48] [EXCEPTION] Demo error to show IoStreak Solutions Banner in C:\xampp\htdocs\PrachiNalis\config\config.php on line 28
+[2025-11-09 08:55:18] [EXCEPTION] Demo error to show IoStreak Solutions Banner in C:\xampp\htdocs\PrachiNalis\config\config.php on line 28
+[2025-11-09 08:55:49] [EXCEPTION] Demo error to show IoStreak Solutions Banner in C:\xampp\htdocs\PrachiNalis\config\config.php on line 28
+[2025-11-09 08:55:51] [EXCEPTION] Demo error to show IoStreak Solutions Banner in C:\xampp\htdocs\PrachiNalis\config\config.php on line 28
